@@ -1,0 +1,6 @@
+framework module KingfisherWebPP {
+  umbrella header "KingfisherWebPP-umbrella.h"
+
+  export *
+  module * { export * }
+}
